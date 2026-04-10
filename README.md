@@ -1,6 +1,6 @@
 [![Status](https://img.shields.io/badge/Status-Building_LLM_Wiki-blue?style=flat-square)](https://github.com/juanillanes2001)
 
-[![OS](https://img.shields.io/badge/OS-Linux_Cinnamon-orange?style=flat-square)](https://linuxmint.com/)
+[![OS](https://img.shields.io/badge/OS-Linux_Ubuntu-orange?style=flat-square)](https://linuxmint.com/)
 
 [![Focus](https://img.shields.io/badge/Focus-AI_%2F_LLMs_%2F_Pedagog%C3%ADa-green?style=flat-square)](https://github.com/juanillanes2001)
 
